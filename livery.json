@@ -4466,7 +4466,11 @@
                     "texture": [
                         "https://raw.githubusercontent.com/Spice9/stuff2/main/KenyaRetro789_NEW.png"
                     ]
-                }
+                },
+                {
+                    "name": "Starbucks",
+                    "texture": [
+                        "https://github.com/thedolphinsfan1/GEOFS-LiverySelector-Pawser-Aviation/blob/main/liveries/boeing_b787-10/starbucks.png?raw=true"
             ]
         },
         "3534": {
